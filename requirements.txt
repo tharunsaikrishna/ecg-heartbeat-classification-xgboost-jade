@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+mealpy==1.2.6
+notebook
